@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Change Theme</string>
+    <string name="hi">Hi!</string>
+    <string name="please_go_to_settings_to_change_the_theme">Please go to settings to change the theme.</string>
+    <string name="setting_btn">Setting</string>
+    <string name="dark">Dark!</string>
+    <string name="light">Light!</string>
+    <string name="green">Green!</string>
+</resources>

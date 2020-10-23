@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/blue_500</color>
+    <color name="colorPrimaryDark">@color/blue_700</color>
+    <color name="colorAccent">@color/blue_grey_500</color>
+
+    <color name="dark_theme_background">#303303</color>
+
+    <color name="blue_50">#e3f2fd</color>
+    <color name="blue_100">#bbdefb</color>
+    <color name="blue_200">#90caf9</color>
+    <color name="blue_300">#64b5f6</color>
+    <color name="blue_400">#42a5f5</color>
+    <color name="blue_500">#2196f3</color>
+    <color name="blue_600">#1e88e5</color>
+    <color name="blue_700">#1976d2</color>
+    <color name="blue_800">#1565c0</color>
+    <color name="blue_900">#0d47a1</color>
+    <color name="blue_A100">#82b1ff</color>
+    <color name="blue_A200">#448aff</color>
+    <color name="blue_A400">#2979ff</color>
+    <color name="blue_A700">#2962ff</color>
+
+    <color name="green_50">#e8f5e9</color>
+    <color name="green_100">#c8e6c9</color>
+    <color name="green_200">#a5d6a7</color>
+    <color name="green_300">#81c784</color>
+    <color name="green_400">#66bb6a</color>
+    <color name="green_500">#4caf50</color>
+    <color name="green_600">#43a047</color>
+    <color name="green_700">#388e3c</color>
+    <color name="green_800">#2e7d32</color>
+    <color name="green_900">#1b5e20</color>
+    <color name="green_A100">#b9f6ca</color>
+    <color name="green_A200">#69f0ae</color>
+    <color name="green_A400">#00e676</color>
+    <color name="green_A700">#00c853</color>
+
+    <color name="light_green_50">#f1f8e9</color>
+    <color name="light_green_100">#dcedc8</color>
+    <color name="light_green_200">#c5e1a5</color>
+    <color name="light_green_300">#aed581</color>
+    <color name="light_green_400">#9ccc65</color>
+    <color name="light_green_500">#8bc34a</color>
+    <color name="light_green_600">#7cb342</color>
+    <color name="light_green_700">#689f38</color>
+    <color name="light_green_800">#558b2f</color>
+    <color name="light_green_900">#33691e</color>
+    <color name="light_green_A100">#ccff90</color>
+    <color name="light_green_A200">#b2ff59</color>
+    <color name="light_green_A400">#76ff03</color>
+    <color name="light_green_A700">#64dd17</color>
+
+    <color name="lime_50">#f9fbe7</color>
+    <color name="lime_100">#f0f4c3</color>
+    <color name="lime_200">#e6ee9c</color>
+    <color name="lime_300">#dce775</color>
+    <color name="lime_400">#d4e157</color>
+    <color name="lime_500">#cddc39</color>
+    <color name="lime_600">#c0ca33</color>
+    <color name="lime_700">#afb42b</color>
+    <color name="lime_800">#9e9d24</color>
+    <color name="lime_900">#827717</color>
+    <color name="lime_A100">#f4ff81</color>
+    <color name="lime_A200">#eeff41</color>
+    <color name="lime_A400">#c6ff00</color>
+    <color name="lime_A700">#aeea00</color>
+
+    <color name="grey_50">#fafafa</color>
+    <color name="grey_100">#f5f5f5</color>
+    <color name="grey_200">#eeeeee</color>
+    <color name="grey_300">#e0e0e0</color>
+    <color name="grey_400">#bdbdbd</color>
+    <color name="grey_500">#9e9e9e</color>
+    <color name="grey_600">#757575</color>
+    <color name="grey_700">#616161</color>
+    <color name="grey_800">#424242</color>
+    <color name="grey_900">#212121</color>
+
+    <color name="blue_grey_50">#eceff1</color>
+    <color name="blue_grey_100">#cfd8dc</color>
+    <color name="blue_grey_200">#b0bec5</color>
+    <color name="blue_grey_300">#90a4ae</color>
+    <color name="blue_grey_400">#78909c</color>
+    <color name="blue_grey_500">#607d8b</color>
+    <color name="blue_grey_600">#546e7a</color>
+    <color name="blue_grey_700">#455a64</color>
+    <color name="blue_grey_800">#37474f</color>
+    <color name="blue_grey_900">#263238</color>
+
+    <color name="black">#000000</color>
+    <color name="black_dividers">#1f000000</color>
+    <color name="black_text_disabled">#42000000</color>
+    <color name="black_text_secondary">#8a000000</color>
+    <color name="black_text">#de000000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white_dividers">#1fffffff</color>
+    <color name="white_text_disabled">#4dffffff</color>
+    <color name="white_text_secondary">#b3ffffff</color>
+    <color name="white_text">#ffffff</color>
+</resources>
